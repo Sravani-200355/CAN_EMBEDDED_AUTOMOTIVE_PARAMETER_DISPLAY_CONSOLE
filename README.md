@@ -106,7 +106,6 @@ The project consists of three CAN nodes:
 
 
 CANTRACK/
-│
 ├── main_node.c
 ├── door_node.c
 ├── indicator_node.c
