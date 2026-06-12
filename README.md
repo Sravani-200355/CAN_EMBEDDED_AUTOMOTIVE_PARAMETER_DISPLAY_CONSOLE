@@ -1,6 +1,3 @@
-# CAN_EMBEDDED_AUTOMOTIVE_PARAMETER_DISPLAY_CONSOLE
-Here's a professional README.md you can directly upload to GitHub for your major project:
-
 # 🚗 CANTRACK - Embedded Automotive Parameter Display Console
 
 ## 📖 Overview
@@ -171,11 +168,3 @@ Through this project, the following concepts were learned:
 **SRAVANI TATA**
 
 Bachelor of Technology (Electronics and Communication Engineering)
-
----
-
-## 📜 License
-
-This project is developed for academic and educational purposes.
-
-This version looks professional for GitHub and will help recruiters and professors quickly understand your project.
